@@ -61,8 +61,8 @@
         "date": "2026-03-01",
         "day": "Ahad",
         "time": "9:00 \u2013 11:00am",
-        "hours": 2.0,
-        "attendance": "\u2014",
+        "hours": 0.0,
+        "attendance": "Absent",
         "notes": "",
         "month_key": "2026-03"
       },
@@ -79,8 +79,8 @@
         "date": "2026-03-08",
         "day": "Ahad",
         "time": "9:00 \u2013 11:00am",
-        "hours": 2.0,
-        "attendance": "\u2014",
+        "hours": 0.0,
+        "attendance": "Absent",
         "notes": "",
         "month_key": "2026-03"
       },
