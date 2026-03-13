@@ -32,16 +32,16 @@
         "date": "2026-03-14",
         "day": "Sabtu",
         "time": "9:00 \u2013 10:30am",
-        "hours": 1.5,
-        "attendance": "\u2014",
+        "hours": 0.0,
+        "attendance": "Absent",
         "notes": "",
         "month_key": "2026-03"
       },
       {
         "date": "2026-03-15",
         "day": "Ahad",
-        "time": "9:00 \u2013 10:00am",
-        "hours": 1.0,
+        "time": "9.00am \u2013 10.30am",
+        "hours": 1.5,
         "attendance": "\u2014",
         "notes": "",
         "month_key": "2026-03"
@@ -49,8 +49,8 @@
       {
         "date": "2026-03-31",
         "day": "Selasa",
-        "time": "8:00 \u2013 9:00pm",
-        "hours": 1.0,
+        "time": "8.00pm \u2013 9.30pm",
+        "hours": 1.5,
         "attendance": "\u2014",
         "notes": "",
         "month_key": "2026-03"
@@ -88,8 +88,8 @@
         "date": "2026-03-14",
         "day": "Sabtu",
         "time": "9:00 \u2013 11:00am",
-        "hours": 2.0,
-        "attendance": "\u2014",
+        "hours": 0.0,
+        "attendance": "Absent",
         "notes": "",
         "month_key": "2026-03"
       },
