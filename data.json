@@ -656,18 +656,6 @@
       "notes": "",
       "status": "Done",
       "month_key": "2026-03"
-    },
-    {
-      "date": "2026-03-14",
-      "day": "Sabtu",
-      "student": "Ahmad Niqrees",
-      "therapist": "MT Alif",
-      "time": "11.00am-1.00pm",
-      "hours": 1.5,
-      "therapy": "ABS",
-      "notes": "",
-      "status": "Upcoming",
-      "month_key": "2026-03"
     }
   ]
 }
