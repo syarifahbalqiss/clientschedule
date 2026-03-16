@@ -42,14 +42,14 @@
         "day": "Ahad",
         "time": "9.00am \u2013 10.30am",
         "hours": 1.5,
-        "attendance": "\u2014",
+        "attendance": "Present",
         "notes": "",
         "month_key": "2026-03"
       },
       {
         "date": "2026-03-31",
         "day": "Selasa",
-        "time": "8.00pm \u2013 9.30pm",
+        "time": "8:00pm \u2013 9:30pm",
         "hours": 1.5,
         "attendance": "\u2014",
         "notes": "",
@@ -97,8 +97,8 @@
         "date": "2026-03-15",
         "day": "Ahad",
         "time": "9:00 \u2013 11:00am",
-        "hours": 2.0,
-        "attendance": "\u2014",
+        "hours": 0.0,
+        "attendance": "Absent",
         "notes": "",
         "month_key": "2026-03"
       }
@@ -136,16 +136,16 @@
         "day": "Sabtu",
         "time": "10:00am \u2013 12:00pm",
         "hours": 2.0,
-        "attendance": "\u2014",
+        "attendance": "Present",
         "notes": "",
         "month_key": "2026-03"
       },
       {
         "date": "2026-03-15",
         "day": "Ahad",
-        "time": "10:00 \u2013 11:00am",
-        "hours": 1.0,
-        "attendance": "\u2014",
+        "time": "10:00am \u2013 12:00pm",
+        "hours": 2.0,
+        "attendance": "Present",
         "notes": "",
         "month_key": "2026-03"
       }
@@ -174,7 +174,7 @@
         "day": "Sabtu",
         "time": "11:00am \u2013 12:30pm",
         "hours": 1.5,
-        "attendance": "\u2014",
+        "attendance": "Present",
         "notes": "",
         "month_key": "2026-03"
       },
@@ -183,7 +183,7 @@
         "day": "Ahad",
         "time": "11:00am \u2013 12:30pm",
         "hours": 1.5,
-        "attendance": "\u2014",
+        "attendance": "Present",
         "notes": "",
         "month_key": "2026-03"
       }
@@ -212,7 +212,7 @@
         "day": "Sabtu",
         "time": "10:00am \u2013 12:00pm",
         "hours": 2.0,
-        "attendance": "\u2014",
+        "attendance": "Present",
         "notes": "",
         "month_key": "2026-03"
       },
@@ -221,7 +221,7 @@
         "day": "Ahad",
         "time": "10:00am \u2013 12:00pm",
         "hours": 2.0,
-        "attendance": "\u2014",
+        "attendance": "Present",
         "notes": "",
         "month_key": "2026-03"
       }
@@ -259,7 +259,7 @@
         "day": "Sabtu",
         "time": "10:00 \u2013 11:30am",
         "hours": 1.5,
-        "attendance": "\u2014",
+        "attendance": "Present",
         "notes": "",
         "month_key": "2026-03"
       },
@@ -268,7 +268,7 @@
         "day": "Ahad",
         "time": "9:00 \u2013 10:00am",
         "hours": 1.0,
-        "attendance": "\u2014",
+        "attendance": "Present",
         "notes": "",
         "month_key": "2026-03"
       },
@@ -305,8 +305,8 @@
         "date": "2026-03-08",
         "day": "Ahad",
         "time": "9:00 \u2013 10:30am",
-        "hours": 1.5,
-        "attendance": "\u2014",
+        "hours": 0.0,
+        "attendance": "Absent",
         "notes": "",
         "month_key": "2026-03"
       },
@@ -315,7 +315,7 @@
         "day": "Sabtu",
         "time": "11:00am \u2013 12:00pm",
         "hours": 1.0,
-        "attendance": "\u2014",
+        "attendance": "Present",
         "notes": "",
         "month_key": "2026-03"
       },
@@ -324,7 +324,7 @@
         "day": "Ahad",
         "time": "9:00 \u2013 10:30am",
         "hours": 1.5,
-        "attendance": "\u2014",
+        "attendance": "Present",
         "notes": "",
         "month_key": "2026-03"
       },
@@ -352,17 +352,8 @@
         "date": "2026-03-08",
         "day": "Ahad",
         "time": "11:00am \u2013 12:30pm",
-        "hours": 1.5,
-        "attendance": "\u2014",
-        "notes": "",
-        "month_key": "2026-03"
-      },
-      {
-        "date": "2026-03-14",
-        "day": "Sabtu",
-        "time": "11:00am \u2013 1:00pm",
-        "hours": 2.0,
-        "attendance": "\u2014",
+        "hours": 0.0,
+        "attendance": "Absent",
         "notes": "",
         "month_key": "2026-03"
       },
@@ -371,7 +362,7 @@
         "day": "Ahad",
         "time": "11:00am \u2013 12:00pm",
         "hours": 1.0,
-        "attendance": "\u2014",
+        "attendance": "Present",
         "notes": "",
         "month_key": "2026-03"
       },
@@ -383,6 +374,24 @@
         "attendance": "Present",
         "notes": "",
         "month_key": "2026-03"
+      },
+      {
+        "date": "2026-03-14",
+        "day": "Sabtu",
+        "time": "11:00am \u2013 11:30am",
+        "hours": 1.0,
+        "attendance": "Present",
+        "notes": "Too packed , MT lain tlg ganti",
+        "month_key": "2026-03"
+      },
+      {
+        "date": "2026-03-14",
+        "day": "Sabtu",
+        "time": "11.30am \u2013 1:00pm",
+        "hours": 0.0,
+        "attendance": "\u2014",
+        "notes": "MT lain ganti",
+        "month_key": "2026-03"
       }
     ],
     "Wan Aleena Faiha": [
@@ -390,9 +399,9 @@
         "date": "2026-03-14",
         "day": "Ahad",
         "time": "9:00 \u2013 10:00am",
-        "hours": 1.0,
-        "attendance": "\u2014",
-        "notes": "",
+        "hours": 0.0,
+        "attendance": "Absent",
+        "notes": "MT Zieqa ganti",
         "month_key": "2026-03"
       },
       {
@@ -476,7 +485,7 @@
         "day": "Sabtu",
         "time": "11:00am \u2013 1:00pm",
         "hours": 2.0,
-        "attendance": "\u2014",
+        "attendance": "Present",
         "notes": "",
         "month_key": "2026-03"
       }
@@ -651,6 +660,42 @@
       "student": "Khafi",
       "therapist": "MT Sha",
       "time": "12.00pm-1.30pm",
+      "hours": 1.5,
+      "therapy": "ABC",
+      "notes": "",
+      "status": "Done",
+      "month_key": "2026-03"
+    },
+    {
+      "date": "2026-03-14",
+      "day": "Sabtu",
+      "student": "Khafi",
+      "therapist": "MT Sha",
+      "time": "12:00pm-1:30pm",
+      "hours": 1.5,
+      "therapy": "ABC",
+      "notes": "",
+      "status": "Done",
+      "month_key": "2026-03"
+    },
+    {
+      "date": "2026-03-14",
+      "day": "Sabtu",
+      "student": "Syarifah Rhea",
+      "therapist": "MT Aina",
+      "time": "1:00pm-1:30pm",
+      "hours": 0.5,
+      "therapy": "ABC",
+      "notes": "",
+      "status": "Done",
+      "month_key": "2026-03"
+    },
+    {
+      "date": "2026-03-15",
+      "day": "Ahad",
+      "student": "Khafi",
+      "therapist": "MT Sha",
+      "time": "12:00pm-1:00pm",
       "hours": 1.5,
       "therapy": "ABC",
       "notes": "",
