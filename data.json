@@ -54,6 +54,78 @@
         "attendance": "\u2014",
         "notes": "",
         "month_key": "2026-03"
+      },
+      {
+        "date": "2026-04-04",
+        "day": "Sabtu",
+        "time": "9:00am \u2013 10:30am",
+        "hours": 1.5,
+        "attendance": "\u2014",
+        "notes": "(Ganti 30 mins)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-11",
+        "day": "Sabtu",
+        "time": "9:00am \u2013 10.30am",
+        "hours": 1.5,
+        "attendance": "\u2014",
+        "notes": "(Ganti 30 mins)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-14",
+        "day": "Selasa",
+        "time": "8:00pm \u2013 9:30pm",
+        "hours": 1.5,
+        "attendance": "\u2014",
+        "notes": "(Ganti 30 mins)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-18",
+        "day": "Sabtu",
+        "time": "9:00am \u2013 10:30am",
+        "hours": 1.5,
+        "attendance": "\u2014",
+        "notes": "(Ganti  30 mins)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-21",
+        "day": "Selasa",
+        "time": "8:00pm \u2013 9:30pm",
+        "hours": 1.5,
+        "attendance": "\u2014",
+        "notes": "(Ganti 30 mins)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-25",
+        "day": "Sabtu",
+        "time": "9:00am \u2013 10:30am",
+        "hours": 1.5,
+        "attendance": "\u2014",
+        "notes": "(Ganti 30 mins)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-28",
+        "day": "Selasa",
+        "time": "8:00pm \u2013 9:30pm",
+        "hours": 1.5,
+        "attendance": "\u2014",
+        "notes": "(Ganti 30 mins)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-03",
+        "day": "Jumaat",
+        "time": "8:00pm \u2013 9:00pm",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "(Replacement class for 7/4)",
+        "month_key": "2026-04"
       }
     ],
     "Ariq Mirza": [
@@ -280,6 +352,87 @@
         "attendance": "\u2014",
         "notes": "",
         "month_key": "2026-03"
+      },
+      {
+        "date": "2026-04-01",
+        "day": "Rabu",
+        "time": "8:00pm \u2013 9:00pm",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-03-07",
+        "day": "Sabtu",
+        "time": "10:00am \u2013 11:00am",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-03"
+      },
+      {
+        "date": "2026-04-04",
+        "day": "Sabtu",
+        "time": "10:00am \u2013 11:00am",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-11",
+        "day": "Sabtu",
+        "time": "10:00am \u2013 11:00am",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-15",
+        "day": "Rabu",
+        "time": "8:00pm \u2013 9:00pm",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-18",
+        "day": "Sabtu",
+        "time": "10:00am \u2013 11:00am",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-22",
+        "day": "Rabu",
+        "time": "8:00pm \u2013 9:00pm",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-25",
+        "day": "Sabtu",
+        "time": "10:00am \u2013 11:00am",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-29",
+        "day": "Rabu",
+        "time": "8:00pm \u2013 9:00pm",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
       }
     ],
     "Aleya Nur Zara": [
