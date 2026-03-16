@@ -173,6 +173,96 @@
         "attendance": "Absent",
         "notes": "",
         "month_key": "2026-03"
+      },
+      {
+        "date": "2026-04-01",
+        "day": "Rabu",
+        "time": "8:00pm \u2013 9:00pm",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-04",
+        "day": "Sabtu",
+        "time": "9:00am \u2013 11:00am",
+        "hours": 2.0,
+        "attendance": "\u2014",
+        "notes": "(Ganti 1 jam)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-08",
+        "day": "Rabu",
+        "time": "8:00pm \u2013 9:00pm",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-11",
+        "day": "Sabtu",
+        "time": "9:00am \u2013 11:00am",
+        "hours": 2.0,
+        "attendance": "\u2014",
+        "notes": "(Ganti 1 jam)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-15",
+        "day": "Rabu",
+        "time": "8:00pm \u2013 9:00pm",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-18",
+        "day": "Sabtu",
+        "time": "9:00am \u2013 11:00am",
+        "hours": 2.0,
+        "attendance": "\u2014",
+        "notes": "(Ganti 1 jam)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-22",
+        "day": "Rabu",
+        "time": "8:00pm \u2013 9:00pm",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-25",
+        "day": "Sabtu",
+        "time": "9:00am \u2013 11:00am",
+        "hours": 2.0,
+        "attendance": "\u2014",
+        "notes": "(Ganti 1 jam)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-03-28",
+        "day": "Sabtu",
+        "time": "9:00am \u2013 11:00am",
+        "hours": 2.0,
+        "attendance": "\u2014",
+        "notes": "(Ganti 2 jam)",
+        "month_key": "2026-03"
+      },
+      {
+        "date": "2026-04-29",
+        "day": "Rabu",
+        "time": "8:00pm \u2013 9:00pm",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "(Ganti 1 jam)",
+        "month_key": "2026-04"
       }
     ],
     "Aisy Affan": [
@@ -220,6 +310,78 @@
         "attendance": "Present",
         "notes": "",
         "month_key": "2026-03"
+      },
+      {
+        "date": "2026-04-02",
+        "day": "Khamis",
+        "time": "8:00pm \u2013 9:30pm",
+        "hours": 1.5,
+        "attendance": "\u2014",
+        "notes": "(Ganti 30 mins)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-04",
+        "day": "Sabtu",
+        "time": "10:00am \u2013 12:00pm",
+        "hours": 2.0,
+        "attendance": "\u2014",
+        "notes": "(Ganti 1 jam)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-09",
+        "day": "Khamis",
+        "time": "8:00pm \u2013 9:30pm",
+        "hours": 1.5,
+        "attendance": "\u2014",
+        "notes": "(Ganti 30 mins)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-11",
+        "day": "Sabtu",
+        "time": "10:00am \u2013 11:00am",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-16",
+        "day": "Khamis",
+        "time": "8:00pm \u2013 9:00pm",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-18",
+        "day": "Sabtu",
+        "time": "10:00am \u2013 11:00am",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-23",
+        "day": "Khamis",
+        "time": "8:00pm \u2013 9:00pm",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-25",
+        "day": "Sabtu",
+        "time": "10:00am \u2013 11:00am",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
       }
     ],
     "Muhammad Anas": [
@@ -258,6 +420,78 @@
         "attendance": "Present",
         "notes": "",
         "month_key": "2026-03"
+      },
+      {
+        "date": "2026-04-02",
+        "day": "Khamis",
+        "time": "8:00pm \u2013 9:30pm",
+        "hours": 1.5,
+        "attendance": "\u2014",
+        "notes": "(Ganti 30 mins)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-04",
+        "day": "Sabtu",
+        "time": "11:00am \u2013 12:00pm",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-09",
+        "day": "Khamis",
+        "time": "8:00pm \u2013 9:30pm",
+        "hours": 1.5,
+        "attendance": "\u2014",
+        "notes": "(Ganti 30 mins)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-11",
+        "day": "Sabtu",
+        "time": "11:00am \u2013 12:00pm",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-16",
+        "day": "Khamis",
+        "time": "8:00pm \u2013 9:30pm",
+        "hours": 1.5,
+        "attendance": "\u2014",
+        "notes": "(Ganti 30 mins)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-18",
+        "day": "Sabtu",
+        "time": "11:00am \u2013 12:00pm",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-23",
+        "day": "Khamis",
+        "time": "8:00pm \u2013 9:30pm",
+        "hours": 1.5,
+        "attendance": "\u2014",
+        "notes": "(Ganti 30 mins)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-25",
+        "day": "Sabtu",
+        "time": "11:00am \u2013 12:00pm",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
       }
     ],
     "Hanis Zulaikha": [
@@ -296,6 +530,78 @@
         "attendance": "Present",
         "notes": "",
         "month_key": "2026-03"
+      },
+      {
+        "date": "2026-04-03",
+        "day": "Jumaat",
+        "time": "8:00pm \u2013 10:00pm",
+        "hours": 2.0,
+        "attendance": "\u2014",
+        "notes": "(Ganti 1 jam)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-04",
+        "day": "Sabtu",
+        "time": "10:00am \u2013 11:00am",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-10",
+        "day": "Jumaat",
+        "time": "8:00pm \u2013 10:00pm",
+        "hours": 2.0,
+        "attendance": "\u2014",
+        "notes": "(Ganti 1 jam)",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-11",
+        "day": "Sabtu",
+        "time": "10:00am \u2013 11:00am",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-17",
+        "day": "Jumaat",
+        "time": "8:00pm \u2013 9:00pm",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-18",
+        "day": "Sabtu",
+        "time": "10:00am \u2013 11:00am",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-24",
+        "day": "Jumaat",
+        "time": "8:00pm \u2013 9:00pm",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
+      },
+      {
+        "date": "2026-04-25",
+        "day": "Sabtu",
+        "time": "10:00am \u2013 11:00am",
+        "hours": 1.0,
+        "attendance": "\u2014",
+        "notes": "",
+        "month_key": "2026-04"
       }
     ],
     "Adeeb Firash": [
